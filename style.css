@@ -18,18 +18,12 @@ font-family: 'Roboto', sans-serif;
 }
 .heading1{
     padding-top: 150px;
+    text-align: center;
     
 }
 .first-h1{
     font-size: 60px;
     color: white;
-    
-}
-.first-p{
-    color: whitesmoke;
-    margin-top: 40px;
-    width: 40%;
-    padding-left: 32%;
     
 }
 .first-btn{
@@ -40,5 +34,56 @@ font-family: 'Roboto', sans-serif;
     border-radius: 5px;
     text-decoration: none;
     border: none;
+    font-size: 15px;
     
 }
+
+.box1 ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    
+}
+#heading2{
+    padding-top: 120px;
+}
+.tk{
+    margin: 15px;
+    height: 70px;
+    width: 100px;
+    background-color:whitesmoke;
+    text-align: center;
+    padding: 0 10px;
+    padding-top: 33px;
+    margin-bottom: 40px;
+    font-weight:700;
+    font-size: 25px;
+    color: gray;
+    border-radius: 5px;
+}
+#color-tk{
+    color:red;
+    border: 2px solid red;
+}
+.first-p2{
+    width: 500px;
+    margin: 0 auto;
+    color: gray;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.first-lasth1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+hr{
+    width: 700px;
+    margin: 0 auto;
+}
+#first-p{
+    color: whitesmoke;
+    margin-top: 30px;
+    
+    
+} 
