@@ -135,7 +135,7 @@ hr{
     display: flex;
 }
 .blog-1{
-    height: 200px;
+    height: 50%;
     width: 20%;
     margin: 5%;
     margin-top: 50px;
@@ -160,7 +160,7 @@ hr{
 }
 .blog-btn{
     
-    margin-top: 200px;
+    margin-top: 180px;
 }
 .my-updates{
     text-align: center;
