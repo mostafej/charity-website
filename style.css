@@ -126,28 +126,41 @@ hr{
 .blog{
     margin: 120px;
 }
-.blog1{
+.hr2{
+    width: 100%;
+    height: 1px;
+    background-color: brown;
+}
+.news{
     display: flex;
-    
+}
+.blog-1{
+    height: 200px;
+    width: 20%;
+    margin: 5%;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 10px 10px 30px gray;
+    background-color: rgb(245, 234, 217);
+    text-align: left;
+}
+.blog-news{
+    color: blue;
     
 }
-.blog-desc{
-    width: 50%;
-    margin-top: 30px;
-}
-.p1{
-    width: 50%;
-    margin-left: 50px;
+.blog-h1{
+    font-size: 36px;
+    font-weight: 700;
 }
 .blog-p{
-    color: gray;
-    text-align: justify;
-    width: 90%;
+    margin-top: 20px;
 }
-.blog2{
-    display: flex;
-    flex-direction: row-reverse;
+.blog-p2{
+    margin-top: 10px;
+}
+.blog-btn{
     
+    margin-top: 200px;
 }
 .my-updates{
     text-align: center;
